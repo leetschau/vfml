@@ -1,7 +1,0 @@
-mostcommonclass -u -f
-naivebayes -u -f
-
-#c50wrapper -f
-#c45wrapper -args "-g" -f
-#c45wrapper -f
-#vfdt -u -batch -prune -f
